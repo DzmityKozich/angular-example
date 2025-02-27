@@ -26,13 +26,13 @@ Once the server is running, open your browser and navigate to `http://localhost:
 
 ## Helpful links
 
-[Angular lifecycle](https://angular.dev/guide/components/lifecycle#summary)
-[Angular routing](https://angular.dev/guide/routing/common-router-tasks)
-[Angular change detection](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
-[Angular binding](https://angular.dev/guide/templates/binding)
-[Angular two-way binding](https://angular.dev/guide/templates/event-listeners)
-[Angular change detection scenarios](https://angular.dev/best-practices/skipping-subtrees#common-change-detection-scenarios)
-[Angular signals](https://angular.dev/guide/routing/common-router-tasks)
+- [Angular lifecycle](https://angular.dev/guide/components/lifecycle#summary)
+- [Angular routing](https://angular.dev/guide/routing/common-router-tasks)
+- [Angular change detection](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
+- [Angular binding](https://angular.dev/guide/templates/binding)
+- [Angular two-way binding](https://angular.dev/guide/templates/event-listeners)
+- [Angular change detection scenarios](https://angular.dev/best-practices/skipping-subtrees#common-change-detection-scenarios)
+- [Angular signals](https://angular.dev/guide/routing/common-router-tasks)
 
 ## Building
 
